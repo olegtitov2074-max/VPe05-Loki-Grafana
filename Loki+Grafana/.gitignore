@@ -1,0 +1,18 @@
+# Docker volumes (если запускается локально)
+loki-data/
+grafana-data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
